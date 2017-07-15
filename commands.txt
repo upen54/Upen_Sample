@@ -1,0 +1,217 @@
+    1  pwd
+    2  cd ..
+    3  ls -latr
+    4  cd workspace/
+    5  ls
+    6  ls -latr
+    7  cd Selenium_Project_Test/
+    8  ls -latr
+    9  git init
+   10  ls -latr
+   11  git add remote URL
+   12  git add remote
+   13  git remote add
+   14  git remote add Balfour_test https://github.com/upen54/Balfour_Test.git
+   15  git status
+   16  git add .
+   17  git commit -m "Initial Commit"
+   18  git push Balfour_test 
+   19  git push --set-upstream Balfour_test master
+   20  git pull Balfour_test 
+   21  git push Balfour_test 
+   22  git push --set-upstream Balfour_test master 
+   23  exit
+   24  git clone https://github.com/upen54/Maven_Sample_Test.git
+   25  git status
+   26  cd Maven_Sample_Test/
+   27  git status
+   28  git add .
+   29  git commit -m "intial draft"
+   30  git push orgin
+   31  git push origin
+   32  exit
+   33  git clone https://github.com/upen54/Balfour_Test.git
+   34  ls -latr
+   35  ls -latr
+   36  cd Balfour_Test/
+   37  git status
+   38  git add .
+   39  git commmit -m "initial commit"
+   40  git commit -m "initial Commit"
+   41  git push origin
+   42  git remote -v
+   43  exit
+   44  cd C:\Users\upen5\WorkSpace_23rdJune2017\Maven_Test
+   45  cd C:\Users\upen5\WorkSpace_23rdJune2017\
+   46  cd WorkSpace_23rdJune2017\Maven_Test
+   47  git init
+   48  git push https://github.com/upen54/Maven_TestNg.git
+   49   git push --set-upstream https://github.com/upen54/Maven_TestNg.git master
+   50   git push --set-upstream https://github.com/upen54/Maven_TestNg.git master
+   51  git clone
+   52   git push https://github.com/upen54/Maven_Test.git master
+   53  clear
+   54  git init
+   55  git remote add origin https://github.com/upen54/Maven_Test.git
+   56  git push origin
+   57  git push origin master
+   58  git push --set-upstream orgin master
+   59  git push --set-upstream origin master
+   60  exit
+   61  cd Upen_Sample/
+   62  git init
+   63  git remote add origin https://github.com/upen54/Upen_Sample.git
+   64  git push origin master
+   65  git push origin master
+   66  git add Upen1234.txt 
+   67  git commit -m "inital draft"
+   68  git config --global user.email "upen54@gmail.com"
+   69  git config --global user.name "upen54"
+   70  git push origin master
+   71  git pull
+   72  exit
+   73  git init
+   74  git remote add origin https://github.com/upen54/Maven_Test.git
+   75  git status
+   76  exit
+   77  git init
+   78  git add.
+   79  git add .
+   80  exit
+   81  git init
+   82  git add .
+   83  git add .
+   84  git commit -m  "first commit"
+   85  get remote add origin https://github.com/upen54/Maven_Test.git
+   86  git remote add origin https://github.com/upen54/Maven_Test.git
+   87  git push origin master
+   88  git push origin master
+   89  exit
+   90  ls
+   91  git push
+   92  git push origin master
+   93  git push origin
+   94  git push --set-upstream origin master
+   95  exit
+   96  pw
+   97  pwd
+   98  mkdir room
+   99  cd room
+  100  pwd
+  101  ls -lar
+  102  ls -latr
+  103  git init
+  104  ls -latr
+  105  ls 
+  106  ls -l
+  107  ls -la
+  108  vi abc.txt
+  109  ls 
+  110  ls -latr
+  111  ls -latr
+  112  cat abc.txt
+  113  git status
+  114  git add abc.txt
+  115  git status
+  116  vi abc.txt
+  117  git commit -m "My first commit"
+  118  git status
+  119  cat abc.txt
+  120  git status --amend
+  121  git stage --ament
+  122  git stage --amend
+  123  git stage
+  124  git reset HEAD
+  125  cat abc.txt
+  126  cat abc.txt
+  127  git status
+  128  git add .
+  129  git commit -m "First Commit"
+  130  ls -latr
+  131  git status
+  132  pwd
+  133  ls -latr
+  134  cd ..
+  135  mkdir room1
+  136  cd room1
+  137  ls -latr
+  138  git clone https://github.com/upen54/Upen_Sample.git
+  139  ls -latr
+  140  cd Upen_Sample/
+  141  ls -latr
+  142  cd ..
+  143  cd ..
+  144  pwd
+  145  cd room1
+  146  ls -latr
+  147  cd Upen_Sample/
+  148  ls -latr
+  149  cd ..
+  150  ls -latr
+  151  rm -rf Upen_Sample/
+  152  ls -latr
+  153  pwd
+  154  ls -latr
+  155  ls -latr
+  156  git clone https://github.com/upen54/Upen_Sample.git
+  157  ls -latr
+  158  cd Upen_Sample/
+  159  ls -latr
+  160  vi abc.txt
+  161  ls -latr
+  162  git status
+  163  git add .
+  164  git status
+  165  git commit -m "My Frist Commit"
+  166  git status
+  167  cat abc.txt 
+  168  git remote -v
+  169  git push origin
+  170  git remote add myorigin https://github.com/upen54/UpenM.git
+  171  git remote -v
+  172  git push myorigin
+  173  git pull myorigin
+  174  git status
+  175  git push myorigin
+  176  git push myorigin master
+  177  git pull myorigin master
+  178  git pull myorigin
+  179  git pull myorigin master
+  180  git fetch myorigin maser
+  181  git fetch myorigin master
+  182  git merge FETCH_HEAD
+  183  git merge -f FETCH_HEAD
+  184  git merge -ff FETCH_HEAD
+  185  git merge -ff --continue FETCH_HEAD
+  186  git merge --continue FETCH_HEAD
+  187  git merge --allow-unrelated-histories FETCH_HEAD
+  188  git status
+  189  git add README.md 
+  190  git commit -m "Second Commit"
+  191  git push myorigin
+  192  git branch 
+  193  git checkout feature
+  194  git checkout -b feature
+  195  git branch
+  196  git branch
+  197  ls -latr
+  198  vi abc.txt
+  199  git status
+  200  git add .
+  201  git commit -m "Third Commit"
+  202  git status
+  203  cat abc.txt 
+  204  git checkout master
+  205  cat abc.txt
+  206  git push origin feature
+  207  git master
+  208  git status
+  209  cat abc.txt 
+  210  git checkout feature 
+  211  cat abc.txt
+  212  git status
+  213  git checkout master
+  214  git merge feature
+  215  cat abc.txt
+  216  git status
+  217  history > commands.txt
